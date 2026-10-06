@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on: A YouTube-like video website using Node.js and MongoDB.<br>👯 I’m looking to collaborate on: Fun backend projects and Java apps.<br>🤝 I’m looking for help with: Finding beginner Backend Developer jobs or internships.<br>🌱 I’m currently learning: Database skills and core coding logic💬 Ask me about: Building website backends, login systems, or Java.<br>⚡ Fun fact: I've solved over 265 coding challenges on LeetCode!
+.# 💫 About Me:
+🔭 I’m currently working on: A YouTube-like video website using Node.js and MongoDB.<br>👯 I’m looking to collaborate on: Fun backend projects and Java apps.<br>🤝 I’m looking for help with: Finding beginner Backend Developer jobs or internships.<br>🌱 I’m currently learning: Database skills and core coding logic.<br>💬 Ask me about: Building website backends, login systems, or Java.<br>⚡ Fun fact: I've solved over 265 coding challenges on LeetCode!
 
 
 ## 🌐 Socials:
